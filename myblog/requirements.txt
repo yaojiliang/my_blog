@@ -1,4 +1,4 @@
-Django==2.1.1
+Django==2.1.15
 DjangoUeditor==1.8.143
 Pillow==7.0.0
 PyMySQL==0.9.3
